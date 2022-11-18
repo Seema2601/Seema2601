@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Seema2601
 - 👀 I’m interested in Java programming, Aws cloud practitioner 
 - 🌱 I’m currently learning Aws cloud practitioner...
-- 💞️ I’m looking to collaborate on aws,Java programming...
+- 💞️ I’m looking to collaborate on aws,C#, Java.
 - 📫 How to reach me..
 
 <!---
